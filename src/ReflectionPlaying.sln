@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionPlaying", "ReflectionPlaying\ReflectionPlaying.csproj", "{A1216D83-3116-4FC4-9212-65A922782851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1216D83-3116-4FC4-9212-65A922782851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1216D83-3116-4FC4-9212-65A922782851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1216D83-3116-4FC4-9212-65A922782851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1216D83-3116-4FC4-9212-65A922782851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {191B7C71-E586-489A-9485-3DA7B4DEDB9F}
+	EndGlobalSection
+EndGlobal
